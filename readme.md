@@ -33,6 +33,9 @@ memory usage: 6.0+ KB
  Versicolor    50  
  Name: variety, dtype: int64
  
+ ![alt text](http://url/to/img.png)
+
+
  #### B.Label encoding
  Result after encoding:  
 [0 1 2]   
