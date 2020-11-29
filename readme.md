@@ -33,7 +33,7 @@ memory usage: 6.0+ KB
  Versicolor    50  
  Name: variety, dtype: int64
  
- ![alt text](http://url/to/img.png)
+ ![alt text](https://github.com/ahmedoid/module12/blob/master/myplot.png?raw=true)
 
 
  #### B.Label encoding
@@ -47,6 +47,9 @@ Shape of X-Test : (60, 4)
 Shape of Y-Test : (60,)  
 Length of list 25  
 Max of list 1.0   
+
+ ![alt text](https://github.com/ahmedoid/module12/blob/master/myplot1.png?raw=true)
+
 
 ##  K Nearest Neighbors
 ##### Classification Report
